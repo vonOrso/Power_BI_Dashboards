@@ -14,4 +14,4 @@ Examples of dashboards I created in Power BI Desktop. The datasets were taken fr
   ![alt text](https://github.com/vonOrso/Power_BI_Dashboards/tree/main/Sample_Sales_Data/Sample_Sales_Data_img.png?raw=true)
 </details>
 
-![alt text](https://github.com/vonOrso/Power_BI_Dashboards/tree/main/Sample_Sales_Data/Sample_Sales_Data_img.png?raw=true)
+![alt text](https://github.com/vonOrso/Sample_Sales_Data/Sample_Sales_Data_img.png?raw=true)
